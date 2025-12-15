@@ -1,0 +1,20 @@
+# Web框架
+streamlit==1.33.0
+
+# 数据处理
+pandas==2.2.2
+numpy==1.26.4
+
+# 机器学习(精确版本,匹配训练模型)
+scikit-learn==1.6.1
+scipy==1.11.4
+joblib>=1.3.0
+threadpoolctl>=3.1.0
+
+# 梯度提升库
+xgboost>=3.0.0
+lightgbm>=4.0.0
+
+# 测试工具
+pytest==8.2.1
+pytest-cov==5.0.0

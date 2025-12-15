@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="135cb76b-2e02-4f2a-8b7b-185bcbfd9692" name="Hepatitis_B_webpage">
+        <fileTransfer rootFolder="/home/octave/workPlace/Hepatitis_B_webpage" accessType="SFTP" host="company" port="22" sshConfigId="134806cc-36e5-4950-bc8b-045ccf9ee844" sshConfig="company" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
