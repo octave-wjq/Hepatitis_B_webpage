@@ -26,7 +26,7 @@ print(f'✓ scikit-learn: {sklearn.__version__}')
 # 3. 设置环境变量
 echo "3. 设置环境变量..."
 export AUTH_USER=${AUTH_USER:-admin}
-export AUTH_PASSWORD=${AUTH_PASSWORD:-test123}
+export AUTH_PASSWORD=${AUTH_PASSWORD:-testyigan123}
 export APP_DB_PATH=${APP_DB_PATH:-data/app.db}
 
 echo "   用户名: $AUTH_USER"
